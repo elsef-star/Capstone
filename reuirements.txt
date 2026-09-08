@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+google-genai
+psycopg2-binary
+pgvector
+python-dotenv
+pytest
